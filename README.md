@@ -1,2 +1,2 @@
 # esa-5
- Aufgabe: repository for my TicTacToe game
+ Aufgabe: generate repository for my TicTacToe game and do some funny things
